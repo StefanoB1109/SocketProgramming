@@ -3,7 +3,7 @@ import time
 import threading
 
 PORT = 12000
-SERVER = "192.168.1.15"
+#SERVER = "enter server ip here"
 ADDR = (SERVER, PORT)
 MAX_BUFFER = 1024
 DISCONNECT = 'quit'
